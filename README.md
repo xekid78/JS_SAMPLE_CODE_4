@@ -1,3 +1,3 @@
-# JS_SAMPLE_CODE_4
+# JavaScript_sample_code4
 JavaScriptのサンプルコードその４【タブメニュー】  
-https://xekid78.github.io/JS_SAMPLE_CODE_4/
+https://xekid78.github.io/JavaScript_sample_code4/
