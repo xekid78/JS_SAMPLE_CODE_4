@@ -2,7 +2,7 @@
 タブメニュー
 
 ## 実行結果
-[【クリックして下さい】](https://xekid78.github.io/WebTabMenu/)
+[【ここをクリック】](https://xekid78.github.io/WebTabMenu/)
   
 ## 開発環境
 | 開発ツール |  |
